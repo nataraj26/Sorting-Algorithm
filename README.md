@@ -4,7 +4,7 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-## Algorithm:
+## Algorithm:-
 ## Selection Sort Algorithm:
 1.	Set the first unsorted element as the minimum
 2.	For each of the unsorted elements, check if the element < current minimum.
